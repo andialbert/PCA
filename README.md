@@ -1,2 +1,2 @@
 # PCA
-fiznum2 homewok
+fiznum2 homework
